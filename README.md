@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://scontent.flko4-1.fna.fbcdn.net/v/t39.30808-6/245491675_597954428318191_8144984415590304092_n.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=hG-OoXoe9wQAX94frYB&_nc_ht=scontent.flko4-1.fna&oh=00_AfDT5UVQiTbxyHG2QzP0g3s72oWOmeZUC9m8myMGPoUrMw&oe=63C5B24C" style="width:100%;height:500px">
+<img src="https://www.hdnicewallpapers.com/FacebookCover/Welcome_To_My_Life_Facebook_Cover_Photo.jpg" style="width:100%;height:315px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wifigooglegyan&label=Profile%20views&color=0e75b6&style=flat" alt="wifigooglegyan" /> </p>
 
