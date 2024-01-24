@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/134292418/original/94b1b48e4467b672b1e3ac9923cf63a62bd68ec3/develop-and-design-web-applications-and-progressive-web-app.jpg">
+<img src="[https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/134292418/original/94b1b48e4467b672b1e3ac9923cf63a62bd68ec3/develop-and-design-web-applications-and-progressive-web-app.jpg](https://www.google.com/search?sca_esv=601002590&rlz=1C1PNBB_enIN1037IN1037&sxsrf=ACQVn0-pHvFOZjgXCbyAMAzTX9JrDjVOgA:1706078263785&q=web+developer+images+for+cover+page&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiNwPzmtPWDAxVT4DgGHWbUDWUQ0pQJegQIChAB&biw=1396&bih=632&dpr=1.38#imgrc=-9WJNJJ1b3iO7M)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wifigooglegyan&label=Profile%20views&color=0e75b6&style=flat" alt="wifigooglegyan" /> </p>
 
